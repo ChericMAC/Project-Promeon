@@ -2,9 +2,9 @@
 
 CheatSet for formating README.md:
 
-#First header
-##Second Header
-###Third header
+# First header
+## Second Header
+### Third header
 
 __bold__
 _cursiva_
